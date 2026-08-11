@@ -1,0 +1,13 @@
+
+POST https://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "oaifgawi@gmail.com",
+  "address": "123 Main Guy",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2026-08-11"
+}
+
+###
